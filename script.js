@@ -9,7 +9,7 @@
 const CATEGORIES = [
   { key:"building", label:"🏢 Building", color:"#2F4A3C",
     items:[
-      {icon:"🏢", t:"Building exterior", img:"images/building_1.jpeg"}
+      {icon:"🏢", t:"Building exterior", img:"images/Building_1.jpeg"}
     ]},
   { key:"room", label:"🛏️ Room", color:"#8C6A3F",
     items:[
@@ -21,22 +21,20 @@ const CATEGORIES = [
     ]},
   { key:"common", label:"🛋️ Common Area", color:"#5A4B6E",
     items:[
-      {icon:"🛋️", t:"Common area 1", img:"images/common_area_1.jpeg"},
-      {icon:"🛋️", t:"Common area 2", img:"images/common_area_2.jpeg"}
+      {icon:"🛋️", t:"Common area 1", img:"images/Common_Area_1.jpeg"},
+      {icon:"🛋️", t:"Common area 2", img:"images/Common_Area_2.jpeg"}
     ]},
   { key:"amenities", label:"✨ Common Amenities", color:"#B9852D",
     items:[
-      {icon:"✨", t:"Amenity 1", img:"images/amenity_1.jpeg"},
-      {icon:"✨", t:"Basic amenities", img:"images/Basic_Amenities_2.jpeg"},
-      {icon:"✨", t:"Amenity 3", img:"images/amenity_3.jpeg"}
+      {icon:"✨", t:"Basic amenities", img:"images/Basic_Amenities_2.jpeg"}
     ]},
   { key:"kitchen", label:"🍳 Kitchen", color:"#7A4B3A",
     items:[
-      {icon:"🍳", t:"Common kitchen", img:"images/kitchen_1.jpeg"}
+      {icon:"🍳", t:"Common kitchen", img:"images/Kitchen_1.jpeg"}
     ]},
   { key:"neighbourhood", label:"📍 Neighbourhood", color:"#3F5C6C",
     items:[
-      {icon:"📍", t:"Locality", img:"images/locality_1.jpeg"}
+      {icon:"📍", t:"Locality", img:"images/Locality_1.jpeg"}
     ]},
 ];
 
